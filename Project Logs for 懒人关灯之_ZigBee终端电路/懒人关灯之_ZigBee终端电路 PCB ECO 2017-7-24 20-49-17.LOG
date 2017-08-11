@@ -1,0 +1,83 @@
+Added Component: Designator=C1(0603)
+Added Component: Designator=C2(CT2335-1210)
+Added Component: Designator=C3(0603)
+Added Component: Designator=C4(0603)
+Added Component: Designator=D1(0603-led)
+Added Component: Designator=D2(0603-led)
+Added Component: Designator=D3(0603-led)
+Added Component: Designator=P1(5-PIN - zhen)
+Added Component: Designator=P2(2-pin - duanzi - 3.81)
+Added Component: Designator=P3(3PIN-TOUCH)
+Added Component: Designator=R1(0603)
+Added Component: Designator=R2(0603)
+Added Component: Designator=R3(0603)
+Added Component: Designator=R4(0603)
+Added Component: Designator=R5(0603)
+Added Component: Designator=R6(0603)
+Added Component: Designator=R7(0603)
+Added Component: Designator=S1(K2-1806SA)
+Added Component: Designator=U1(ZIGBEE-E18-MS1-PCB)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-22
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U1-23
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R4-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-10
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=P0_6 Pin=P3-2
+Added Pin To Net: NetName=P0_6 Pin=R6-2
+Added Pin To Net: NetName=P0_6 Pin=U1-17
+Added Net: Name=P0_6
+Added Pin To Net: NetName=P0_7 Pin=C4-1
+Added Pin To Net: NetName=P0_7 Pin=P2-1
+Added Pin To Net: NetName=P0_7 Pin=U1-16
+Added Net: Name=P0_7
+Added Pin To Net: NetName=P2_1/DD Pin=P1-4
+Added Pin To Net: NetName=P2_1/DD Pin=U1-4
+Added Net: Name=P2_1/DD
+Added Pin To Net: NetName=P2_2/DC Pin=P1-3
+Added Pin To Net: NetName=P2_2/DC Pin=R5-2
+Added Pin To Net: NetName=P2_2/DC Pin=R7-1
+Added Pin To Net: NetName=P2_2/DC Pin=U1-3
+Added Net: Name=P2_2/DC
+Added Pin To Net: NetName=RESET_N Pin=C3-1
+Added Pin To Net: NetName=RESET_N Pin=P1-5
+Added Pin To Net: NetName=RESET_N Pin=R1-2
+Added Pin To Net: NetName=RESET_N Pin=S1-1
+Added Pin To Net: NetName=RESET_N Pin=U1-24
+Added Net: Name=RESET_N
+Added Pin To Net: NetName=VCC-3.3 Pin=C1-2
+Added Pin To Net: NetName=VCC-3.3 Pin=C2-1
+Added Pin To Net: NetName=VCC-3.3 Pin=D3-1
+Added Pin To Net: NetName=VCC-3.3 Pin=P1-1
+Added Pin To Net: NetName=VCC-3.3 Pin=P3-3
+Added Pin To Net: NetName=VCC-3.3 Pin=R1-1
+Added Pin To Net: NetName=VCC-3.3 Pin=R5-1
+Added Pin To Net: NetName=VCC-3.3 Pin=R6-1
+Added Pin To Net: NetName=VCC-3.3 Pin=U1-2
+Added Net: Name=VCC-3.3
+Added Class: Name=懒人关灯之_ZigBee终端电路

@@ -1,0 +1,6 @@
+Added Component: Designator=P4(2-pin)
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=P0_2 Pin=P4-1
+Added Pin To Net: NetName=P0_2 Pin=U1-21
+Added Net: Name=P0_2
+Added Member To Class: ClassName=懒人关灯之_ZigBee终端电路 Member=Component P4 GPIO

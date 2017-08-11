@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=P2_2/DC Pin=U1-3
+Removed Pin From Net: NetName=P2_1/DD Pin=U1-4
+Added Pin To Net: NetName=P2_1/DD Pin=U1-3
+Added Pin To Net: NetName=P2_2/DC Pin=U1-4
+Change Net Name : Old Net Name=P2_1/DD New Net Name=P2_2/DC
+Change Net Name : Old Net Name=P2_2/DC New Net Name=P2_1/DD
